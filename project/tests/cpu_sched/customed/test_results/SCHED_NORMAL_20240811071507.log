@@ -1,0 +1,36 @@
+50 
+Testing with 50 entities, 500 messages, and policy SCHED_NORMAL
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 500 messages of 100 bytes
+Time: 0.876
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 500 messages of 100 bytes
+Time: 0.889
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 500 messages of 100 bytes
+Time: 0.875
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 500 messages of 100 bytes
+Time: 0.869
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 500 messages of 100 bytes
+Time: 0.888
+Testing with 50 entities, 1000 messages, and policy SCHED_NORMAL
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 1000 messages of 100 bytes
+Time: 1.762
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 1000 messages of 100 bytes
+Time: 1.811
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 1000 messages of 100 bytes
+Time: 1.741
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 1000 messages of 100 bytes
+Time: 1.724
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 1000 messages of 100 bytes
+Time: 1.716
+Testing with 50 entities, 3000 messages, and policy SCHED_NORMAL
+Running in process mode with 50 groups using 40 file descriptors each (== 2000 tasks)
+Each sender will pass 3000 messages of 100 bytes

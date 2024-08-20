@@ -1,0 +1,5 @@
+Error response from daemon: Container a898b05850f9645d104e71ea98f3cb7cdc4790e049bf780dceded9f823e22004 is not running
+
+real	0m0.037s
+user	0m0.018s
+sys	0m0.023s

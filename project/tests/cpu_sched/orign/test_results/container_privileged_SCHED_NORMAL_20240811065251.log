@@ -1,0 +1,69 @@
+50 
+Testing with 50 entities and 500 messages, policy SCHED_NORMAL, container container_privileged
+Time: 0.819
+Time: 0.813
+Time: 0.816
+Time: 0.817
+Time: 0.819
+Testing with 50 entities and 1000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 1.580
+Time: 1.604
+Time: 1.625
+Time: 1.642
+Time: 1.631
+Testing with 50 entities and 3000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 4.764
+Time: 4.618
+Time: 4.585
+Time: 4.615
+Time: 4.651
+Testing with 50 entities and 5000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 7.932
+Time: 8.104
+Time: 8.115
+Time: 8.332
+Time: 8.188
+Testing with 50 entities and 7000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 11.513
+Time: 11.751
+Time: 11.758
+Time: 11.862
+Time: 11.904
+Testing with 50 entities and 9000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 15.638
+Time: 15.873
+Time: 15.965
+Time: 15.932
+Time: 16.093
+100 9000
+Testing with 100 entities and 500 messages, policy SCHED_NORMAL, container container_privileged
+Time: 1.909
+Time: 1.867
+Time: 1.888
+Time: 1.884
+Time: 1.840
+Testing with 100 entities and 1000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 3.657
+Time: 3.633
+Time: 3.616
+Time: 3.737
+Time: 3.799
+Testing with 100 entities and 3000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 10.910
+Time: 11.352
+Time: 11.449
+Time: 11.207
+Time: 11.038
+Testing with 100 entities and 5000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 18.985
+Time: 18.893
+Time: 18.964
+Time: 18.991
+Time: 19.743
+Testing with 100 entities and 7000 messages, policy SCHED_NORMAL, container container_privileged
+Time: 26.291
+Time: 25.978
+Time: 26.204
+Time: 26.074
+Time: 25.506
+Testing with 100 entities and 9000 messages, policy SCHED_NORMAL, container container_privileged

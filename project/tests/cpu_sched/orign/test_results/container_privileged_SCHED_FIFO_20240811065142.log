@@ -1,0 +1,7 @@
+50 9000
+Testing with 50 entities and 500 messages, policy SCHED_FIFO, container container_privileged
+Testing with 50 entities and 1000 messages, policy SCHED_FIFO, container container_privileged
+Testing with 50 entities and 3000 messages, policy SCHED_FIFO, container container_privileged
+Testing with 50 entities and 5000 messages, policy SCHED_FIFO, container container_privileged
+Testing with 50 entities and 7000 messages, policy SCHED_FIFO, container container_privileged
+Testing with 50 entities and 9000 messages, policy SCHED_FIFO, container container_privileged
